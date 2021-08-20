@@ -1,0 +1,6 @@
+# virtual-keyboard
+ mediapipe
+ opencv-python
+ numpy
+ pynput
+ 
